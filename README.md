@@ -2,12 +2,12 @@
 
 Local chat using socket library
 
-usage:
+## Usage:
+```bash
+python main.py # runs a host
 
-python main.py
+python client.py # 1st client
 
-python client.py
-
-python client.py
-
+python client.py # 2nd client
+```
 Now you can chat on your local server.
